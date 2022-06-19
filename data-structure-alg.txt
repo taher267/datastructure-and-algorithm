@@ -1,0 +1,20 @@
+#Non linear Data Structure
+stack
+Queue
+linked list
+Hash map
+Hash table
+heap
+tree
+
+
+#Algotithm
+
+searching
+sorting
+dynamic programming
+recursive programming
+divide and conquer algorithm
+
+gradual (optional)
+
